@@ -14,7 +14,7 @@ int main()
 	v1.push_back(2);
 	v1.push_back(3);
 
-	// copy v1 to v2 using copy constructor
+	// copy v1 to v2 using copy constructor of v2
 	vector<int> v2(v1);
 
 	// see if its copied
