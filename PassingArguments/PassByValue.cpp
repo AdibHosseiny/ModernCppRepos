@@ -26,6 +26,7 @@ int main()
     /// calling the function
     func(var1, var2, var3);
 
+    /// see results that are not affected
     cout << "Here are variables passed by value to function : " << var1 << " , " << var2 << " , " << var3 << endl;
 
 }
